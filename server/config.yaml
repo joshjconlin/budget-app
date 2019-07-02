@@ -1,0 +1,6 @@
+database:
+  host: localhost
+  port: 5432
+  username: joshconlin
+  password: password
+  databaseName: simply_budgets
